@@ -1,0 +1,2 @@
+# Arch-GNU-config
+aaaa
